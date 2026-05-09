@@ -272,13 +272,13 @@ timeline
 [![Oracle](https://img.shields.io/badge/Oracle-Partner-F80000?style=flat&logo=oracle&logoColor=white)](https://oracle.com)
 
 **🌍 Global Presence (Speaker / Exhibitor):**
-- 🇺🇸 San Francisco — Sequoia / IBM / NASA pitch (2015)
-- 🇮🇱 Tel Aviv — Stock Exchange pitch (2016)
-- 🇵🇹 Lisbon — Web Summit (2023 & 2025, APEX Top 80 BR startups)
-- 🇧🇷 São Paulo — Google / AWS / Microsoft accelerated
-- 🇧🇷 Rio de Janeiro — Web Summit (2024 & 2025)
-- 🇺🇸 Las Vegas — NVIDIA Top 12 speaker, Re:Invent (2025)
-- 🇨🇳 Beijing — HICOOL Summit speaker (2025)
+- <img src="https://flagcdn.com/16x12/us.png" alt="US" /> San Francisco — Sequoia / IBM / NASA pitch (2015)
+- <img src="https://flagcdn.com/16x12/il.png" alt="IL" /> Tel Aviv — Stock Exchange pitch (2016)
+- <img src="https://flagcdn.com/16x12/pt.png" alt="PT" /> Lisbon — Web Summit (2023 & 2025, APEX Top 80 BR startups)
+- <img src="https://flagcdn.com/16x12/br.png" alt="BR" /> São Paulo — Google / AWS / Microsoft accelerated
+- <img src="https://flagcdn.com/16x12/br.png" alt="BR" /> Rio de Janeiro — Web Summit (2024 & 2025)
+- <img src="https://flagcdn.com/16x12/us.png" alt="US" /> Las Vegas — NVIDIA Top 12 speaker, Re:Invent (2025)
+- <img src="https://flagcdn.com/16x12/cn.png" alt="CN" /> Beijing — HICOOL Summit speaker (2025)
 
 ---
 
