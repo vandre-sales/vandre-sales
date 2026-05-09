@@ -261,24 +261,31 @@ timeline
 
 **Big Tech Partners:**
 
-[![AWS](https://img.shields.io/badge/AWS-GenAI_Accelerator-FF9900?style=flat&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="20" alt="AWS" /> AWS — GenAI Accelerator
 
-[![Google](https://img.shields.io/badge/Google-for_Startups-4285F4?style=flat&logo=google&logoColor=white)](https://startup.google.com)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="16" alt="Google" /> Google — for Startups
 
-[![Microsoft](https://img.shields.io/badge/Microsoft-Founders_Hub-0078D4?style=flat&logo=microsoft&logoColor=white)](https://www.microsoft.com/en-us/startups)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="16" alt="Microsoft" /> Microsoft — Founders Hub
 
-[![NVIDIA](https://img.shields.io/badge/NVIDIA-Inception-76B900?style=flat&logo=nvidia&logoColor=white)](https://nvidia.com)
+<img src="https://cdn.simpleicons.org/nvidia/76B900" height="16" alt="NVIDIA" /> NVIDIA — Inception
 
-[![Oracle](https://img.shields.io/badge/Oracle-Partner-F80000?style=flat&logo=oracle&logoColor=white)](https://oracle.com)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="16" alt="Oracle" /> Oracle — Partner
 
 **🌍 Global Presence (Speaker / Exhibitor):**
-- <img src="https://flagcdn.com/16x12/us.png" alt="US" /> San Francisco — Sequoia / IBM / NASA pitch (2015)
-- <img src="https://flagcdn.com/16x12/il.png" alt="IL" /> Tel Aviv — Stock Exchange pitch (2016)
-- <img src="https://flagcdn.com/16x12/pt.png" alt="PT" /> Lisbon — Web Summit (2023 & 2025, APEX Top 80 BR startups)
-- <img src="https://flagcdn.com/16x12/br.png" alt="BR" /> São Paulo — Google / AWS / Microsoft accelerated
-- <img src="https://flagcdn.com/16x12/br.png" alt="BR" /> Rio de Janeiro — Web Summit (2024 & 2025)
-- <img src="https://flagcdn.com/16x12/us.png" alt="US" /> Las Vegas — NVIDIA Top 12 speaker, Re:Invent (2025)
-- <img src="https://flagcdn.com/16x12/cn.png" alt="CN" /> Beijing — HICOOL Summit speaker (2025)
+
+<img src="https://flagcdn.com/16x12/us.png" alt="US" /> San Francisco — Sequoia / IBM / NASA pitch (2015)
+
+<img src="https://flagcdn.com/16x12/il.png" alt="IL" /> Tel Aviv — Stock Exchange pitch (2016)
+
+<img src="https://flagcdn.com/16x12/pt.png" alt="PT" /> Lisbon — Web Summit (2023 & 2025, APEX Top 80 BR startups)
+
+<img src="https://flagcdn.com/16x12/br.png" alt="BR" /> São Paulo — Google / AWS / Microsoft accelerated
+
+<img src="https://flagcdn.com/16x12/br.png" alt="BR" /> Rio de Janeiro — Web Summit (2024 & 2025)
+
+<img src="https://flagcdn.com/16x12/us.png" alt="US" /> Las Vegas — NVIDIA Top 12 speaker, Re:Invent (2025)
+
+<img src="https://flagcdn.com/16x12/cn.png" alt="CN" /> Beijing — HICOOL Summit speaker (2025)
 
 ---
 
