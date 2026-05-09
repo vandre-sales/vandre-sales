@@ -259,7 +259,7 @@ timeline
 
 [![FIEG](https://img.shields.io/badge/FIEG-Innovation_Winner-orange?style=flat)](https://fieg.com.br)
 
-**Big Tech Partners:**
+### **Big Tech Partners:**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="20" alt="AWS" /> AWS — GenAI Accelerator
 
@@ -271,7 +271,7 @@ timeline
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="16" alt="Oracle" /> Oracle — Partner
 
-**🌍 Global Presence (Speaker / Exhibitor):**
+### **🌍 Global Presence (Speaker / Exhibitor):**
 
 <img src="https://flagcdn.com/16x12/us.png" alt="US" /> San Francisco — Sequoia / IBM / NASA pitch (2015)
 
