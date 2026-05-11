@@ -242,9 +242,9 @@ timeline
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**MLV_Nodes_V3**](https://github.com/vandre-sales/MLV_Nodes_V3) | ComfyUI Custom Nodes V3 — LoRA Stack, Ollama Generate, DCE Pipeline | Python |
-| [**MLV_Combo_Nodes**](https://github.com/vandre-sales/MLV_Combo_Nodes) | Dynamic prompt builder + LOCKED/UNLOCKED LoRA captioning | Python |
-| [**proto-mcp-server**](https://github.com/vandre-sales/proto-mcp-server) | AI Governance Framework as MCP Server — spec-driven development | TypeScript |
+| [**Alpha-Compose**](https://github.com/vandre-sales/Alpha-Compose) | Precision image orchestrator — compose subjects over backgrounds and batch-export up to 4K | TypeScript |
+| [**OKLCH-Spectrum-Audit**](https://github.com/vandre-sales/OKLCH-Spectrum-Audit) | Advanced OKLCH palette visualizer with HEX conversion, luminance audit, and CSS export | TypeScript |
+| [**batch-image-crop**](https://github.com/vandre-sales/batch-image-crop) | Batch image cropping tool with aspect ratio presets and ZIP export up to 4K | TypeScript |
 | **41 repositories** | Full pipeline: Dataset→LoRA→Inference→API→Product | Multi-lang |
 
 ---
