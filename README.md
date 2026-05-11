@@ -261,31 +261,31 @@ timeline
 
 ### **Big Tech Partners:**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="20" alt="AWS" /> AWS — GenAI Accelerator
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="20" alt="AWS" /> AWS — Activate for Startups | AWS CTO Fellowship | AWS Revenue Acceleration Program
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="16" alt="Google" /> Google — for Startups
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="16" alt="Google" /> Google — Cloud for Startups Gen AI | Google Cloud Program Scale AI | Google Challenge  
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="16" alt="Microsoft" /> Microsoft — Founders Hub
 
-<img src="https://cdn.simpleicons.org/nvidia/76B900" height="16" alt="NVIDIA" /> NVIDIA — Inception
+<img src="https://cdn.simpleicons.org/nvidia/76B900" height="16" alt="NVIDIA" /> NVIDIA — Inception Program for Startups | Top 12 Worldwide Startups 2025
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="16" alt="Oracle" /> Oracle — Partner
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="16" alt="Oracle" /> Oracle — Startup Program
 
 ### **🌍 Global Presence (Speaker / Exhibitor):**
 
-<img src="https://flagcdn.com/16x12/us.png" alt="US" /> San Francisco — Sequoia / IBM / NASA pitch (2015)
+<img src="https://flagcdn.com/16x12/us.png" alt="US" /> San Francisco — Sequoia / IBM / NASA pitch for Tippz Startup (2015)
 
-<img src="https://flagcdn.com/16x12/il.png" alt="IL" /> Tel Aviv — Stock Exchange pitch (2016)
+<img src="https://flagcdn.com/16x12/il.png" alt="IL" /> Tel Aviv — Stock Exchange pitch for Tippz Startup (2016)
 
-<img src="https://flagcdn.com/16x12/pt.png" alt="PT" /> Lisbon — Web Summit (2023 & 2025, APEX Top 80 BR startups)
+<img src="https://flagcdn.com/16x12/pt.png" alt="PT" /> Lisbon — Web Summit (2023 & 2025, APEX Top 80 BR startups for Meliva.ai Startup)
 
-<img src="https://flagcdn.com/16x12/br.png" alt="BR" /> São Paulo — Google / AWS / Microsoft accelerated
+<img src="https://flagcdn.com/16x12/br.png" alt="BR" /> São Paulo — Google / AWS / Microsoft accelerated for Meliva.ai Startup
 
-<img src="https://flagcdn.com/16x12/br.png" alt="BR" /> Rio de Janeiro — Web Summit (2024 & 2025)
+<img src="https://flagcdn.com/16x12/br.png" alt="BR" /> Rio de Janeiro — Web Summit (2024 & 2025) for Meliva.ai Startup
 
-<img src="https://flagcdn.com/16x12/us.png" alt="US" /> Las Vegas — NVIDIA Top 12 speaker, Re:Invent (2025)
+<img src="https://flagcdn.com/16x12/us.png" alt="US" /> Las Vegas — NVIDIA Top 12 speaker, Re:Invent (2025) for Meliva.ai Startup
 
-<img src="https://flagcdn.com/16x12/cn.png" alt="CN" /> Beijing — HICOOL Summit speaker (2025)
+<img src="https://flagcdn.com/16x12/cn.png" alt="CN" /> Beijing — HICOOL Summit speaker (2025) for Meliva.ai Startup
 
 ---
 
