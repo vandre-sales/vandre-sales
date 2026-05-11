@@ -261,15 +261,15 @@ timeline
 
 ### **Big Tech Partners:**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="20" alt="AWS" /> AWS — Activate for Startups | AWS CTO Fellowship | AWS Revenue Acceleration Program
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="20" alt="AWS" /> **AWS** — Activate for Startups | AWS CTO Fellowship | AWS Revenue Acceleration Program
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="16" alt="Google" /> Google — Cloud for Startups Gen AI | Google Cloud Program Scale AI | Google Challenge  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="16" alt="Google" /> **Google** — Cloud for Startups Gen AI | Google Cloud Program Scale AI | Google Challenge  
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="16" alt="Microsoft" /> Microsoft — Founders Hub
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="16" alt="Microsoft" /> **Microsoft** — Founders Hub
 
-<img src="https://cdn.simpleicons.org/nvidia/76B900" height="16" alt="NVIDIA" /> NVIDIA — Inception Program for Startups | Top 12 Worldwide Startups 2025
+<img src="https://cdn.simpleicons.org/nvidia/76B900" height="16" alt="NVIDIA" /> **NVIDIA** — Inception Program for Startups | Top 12 Worldwide Startups 2025
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="16" alt="Oracle" /> Oracle — Startup Program
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="16" alt="Oracle" /> **Oracle** — Startup Program
 
 ### **🌍 Global Presence (Speaker / Exhibitor):**
 
