@@ -242,7 +242,7 @@ timeline
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**LoRA Studio — Architecture Case Study**](https://github.com/vandre-sales/lora-studio-showcase) ⭐ | AI-Powered Brand Consistency at Scale — 15 microservices, LOCKED/UNLOCKED protocol, Flow Matching math. AWS Case Study Partner · Sebrae Top 10 National 2025 | Architecture / GenAI |
+| [**LoRA Studio — Architecture Case Study**](https://github.com/vandre-sales/lora-studio-showcase) ⭐ | AI-Powered Brand Consistency at Scale — 15 microservices, LOCKED/UNLOCKED protocol, Flow Matching math. AWS Case Study Partner · Top 12 Worldwide Startups 2025 NVIDIA / AWS Re:Invent | Architecture / GenAI |
 | [**Alpha-Compose**](https://github.com/vandre-sales/Alpha-Compose) | Precision image orchestrator — compose subjects over backgrounds and batch-export up to 4K | TypeScript |
 | [**OKLCH-Spectrum-Audit**](https://github.com/vandre-sales/OKLCH-Spectrum-Audit) | Advanced OKLCH palette visualizer with HEX conversion, luminance audit, and CSS export | TypeScript |
 | [**batch-image-crop**](https://github.com/vandre-sales/batch-image-crop) | Batch image cropping tool with aspect ratio presets and ZIP export up to 4K | TypeScript |
